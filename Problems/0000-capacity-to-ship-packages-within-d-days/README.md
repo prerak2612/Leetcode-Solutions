@@ -2,7 +2,7 @@
 
 | Field | Value |
 | --- | --- |
-| Difficulty | Unknown |
+| Difficulty | Medium |
 | Topics | Array, Binary Search |
 | Language | Python3 |
 | LeetCode | [Problem Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
