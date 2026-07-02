@@ -1,2 +1,2 @@
 # Leetcode-Solutions
-| 0000 | [Remove Duplicates from Sorted List](Problems/0000-remove-duplicates-from-sorted-list/README.md) | Easy | Python3 | Linked List | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
+| 0000 | [Find Pivot Index](Problems/0000-find-pivot-index/README.md) | Easy | Python3 | Array, Prefix Sum | [LeetCode](https://leetcode.com/problems/find-pivot-index/) |
