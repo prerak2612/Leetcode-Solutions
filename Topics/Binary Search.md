@@ -2,4 +2,4 @@
 
 | # | Problem | Difficulty | Language | Link |
 | --- | --- | --- | --- | --- |
-| 0000 | [Capacity To Ship Packages Within D Days](../Problems/0000-capacity-to-ship-packages-within-d-days/README.md) | Unknown | Python3 | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
+| 0000 | [Guess Number Higher or Lower](../Problems/0000-guess-number-higher-or-lower/README.md) | Easy | Python3 | [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower/) |
