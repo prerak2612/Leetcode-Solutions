@@ -1,2 +1,2 @@
 # Leetcode-Solutions
-| 0000 | [Find a Safe Walk Through a Grid](Problems/0000-find-a-safe-walk-through-a-grid/README.md) | Medium | C | Array, Breadth-First Search, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path | [LeetCode](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) |
+| 0000 | [Swap Nodes in Pairs](Problems/0000-swap-nodes-in-pairs/README.md) | Medium | Python3 | Linked List, Recursion | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) |
