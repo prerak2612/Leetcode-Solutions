@@ -2,7 +2,7 @@
 
 | Field | Value |
 | --- | --- |
-| Difficulty | Easy |
+| Difficulty | Unknown |
 | Topics | Array, Prefix Sum |
 | Language | Python3 |
 | LeetCode | [Problem Link](https://leetcode.com/problems/find-pivot-index/) |
