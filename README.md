@@ -1,2 +1,2 @@
 # Leetcode-Solutions
-| 0000 | [Guess Number Higher or Lower](Problems/0000-guess-number-higher-or-lower/README.md) | Easy | Python3 | Binary Search, Interactive | [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower/) |
+| 0000 | [Group Anagrams](Problems/0000-group-anagrams/README.md) | Medium | Python3 | Array, Hash Table, String, Sorting | [LeetCode](https://leetcode.com/problems/group-anagrams/) |
