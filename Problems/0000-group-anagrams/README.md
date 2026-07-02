@@ -2,7 +2,7 @@
 
 | Field | Value |
 | --- | --- |
-| Difficulty | Unknown |
+| Difficulty | Medium |
 | Topics | Array, Hash Table, String, Sorting |
 | Language | Python3 |
 | LeetCode | [Problem Link](https://leetcode.com/problems/group-anagrams/) |
