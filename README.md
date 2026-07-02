@@ -1,2 +1,2 @@
 # Leetcode-Solutions
-| 0000 | [To Lower Case](Problems/0000-to-lower-case/README.md) | Easy | Python3 | String | [LeetCode](https://leetcode.com/problems/to-lower-case/) |
+| 0000 | [Find a Safe Walk Through a Grid](Problems/0000-find-a-safe-walk-through-a-grid/README.md) | Medium | C | Array, Breadth-First Search, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path | [LeetCode](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) |
