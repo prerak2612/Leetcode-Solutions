@@ -1,2 +1,2 @@
 # Leetcode-Solutions
-| 0000 | [Swap Nodes in Pairs](Problems/0000-swap-nodes-in-pairs/README.md) | Unknown | Python3 | Linked List, Recursion | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) |
+| 0000 | [Remove Duplicates from Sorted List](Problems/0000-remove-duplicates-from-sorted-list/README.md) | Easy | Python3 | Linked List | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
