@@ -10,3 +10,7 @@ class Solution:
         s = 1
         e = n
         while(s <= e):
+            mid = (s+e) // 2
+            if(guess(mid) == mid):
+                return 
+            elif(guess(mid) )
