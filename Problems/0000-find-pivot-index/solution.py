@@ -3,8 +3,9 @@ class Solution:
         left_sum = 0
         total_sum = sum(nums)
         for i in range(len(nums)):
-            left_sum += nums[i]
-            right_sum = total_sum - left_sum
+            right_sum = total_sum - left_sum - nums[i]
             if left_sum == right_sum:
                 return i
+            left_sum += nums[i]
+            
         return -1
