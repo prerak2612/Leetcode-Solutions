@@ -7,3 +7,6 @@
 
 class Solution:
     def guessNumber(self, n: int) -> int:
+        s = 1
+        e = n
+        while(s <= e):
