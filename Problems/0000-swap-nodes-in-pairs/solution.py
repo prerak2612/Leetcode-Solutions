@@ -13,3 +13,9 @@ class Solution:
         while prev and prev.next.next:
             first = prev.next
             second = first.next
+            new = second.next
+            prev.next = second
+            second.next = first
+            first.next = new.next
+            prev = first
+        return dummyNode.next
