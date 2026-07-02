@@ -1,2 +1,2 @@
 # Leetcode-Solutions
-| 0000 | [Find Pivot Index](Problems/0000-find-pivot-index/README.md) | Unknown | Python3 | Array, Prefix Sum | [LeetCode](https://leetcode.com/problems/find-pivot-index/) |
+| 0000 | [Guess Number Higher or Lower](Problems/0000-guess-number-higher-or-lower/README.md) | Easy | Python3 | Binary Search, Interactive | [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower/) |
