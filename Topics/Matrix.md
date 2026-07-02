@@ -2,4 +2,4 @@
 
 | # | Problem | Difficulty | Language | Link |
 | --- | --- | --- | --- | --- |
-| 0000 | [Find a Safe Walk Through a Grid](../Problems/0000-find-a-safe-walk-through-a-grid/README.md) | Medium | C | [LeetCode](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) |
+| 0000 | [Search a 2D Matrix](../Problems/0000-search-a-2d-matrix/README.md) | Medium | Python3 | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) |
