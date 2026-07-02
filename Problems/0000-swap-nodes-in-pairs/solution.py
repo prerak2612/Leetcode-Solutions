@@ -10,7 +10,7 @@ class Solution:
         dummyNode = ListNode(-1)
         dummyNode.next = head
         prev = dummyNode
-        while prev and prev.next.next:
+        while prev and prev.next and prev.next.next :
             first = prev.next
             second = first.next
             new = second.next
