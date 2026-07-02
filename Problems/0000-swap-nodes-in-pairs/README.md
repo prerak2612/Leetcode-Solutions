@@ -2,7 +2,7 @@
 
 | Field | Value |
 | --- | --- |
-| Difficulty | Medium |
+| Difficulty | Unknown |
 | Topics | Linked List, Recursion |
 | Language | Python3 |
 | LeetCode | [Problem Link](https://leetcode.com/problems/swap-nodes-in-pairs/) |
