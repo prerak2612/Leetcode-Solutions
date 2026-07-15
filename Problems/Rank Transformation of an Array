@@ -1,0 +1,22 @@
+class Solution:
+    def arrayRankTransform(self, arr: List[int]) -> List[int]:
+
+        # Make a sorted list of unique numbers
+        unique_numbers = sorted(set(arr))
+
+        # Store rank of each number
+        rank = {}
+
+        current_rank = 1
+
+        for i in unique_numbers:
+            rank[i] = current_rank
+            current_rank += 1
+
+        # Create answer array
+        answer = []
+
+        for i in arr:
+            answer.append(rank[i])
+
+        return answer
