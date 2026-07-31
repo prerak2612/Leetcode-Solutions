@@ -5,6 +5,6 @@ class Solution:
             key = "".join(sorted(curr))
             #aet
             if key in dic:
-                #dic[key] = [curr]
+                # EXAMPLE -> dic[key] = [curr]
                 #aet:[eat]
                 dic[key] = [curr]
