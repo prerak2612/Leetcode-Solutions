@@ -6,5 +6,4 @@ class Solution:
             #aet
             if key in dic:
                 # EXAMPLE -> dic[key] = [curr]
-                #aet:[eat]
                 dic[key] = [curr]
